@@ -1,0 +1,22 @@
+{
+  "name": "easyship-fonts",
+  "version": "0.0.1",
+  "authors": [
+    "Paul <paul.lugagnedelpon@gmail.com>"
+  ],
+  "description": "Fonts for goeasyship.com",
+  "main": "style.css",
+  "keywords": [
+    "easyship",
+    "fonts"
+  ],
+  "license": "MIT",
+  "homepage": "goeasyship.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
